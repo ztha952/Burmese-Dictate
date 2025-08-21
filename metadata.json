@@ -1,0 +1,7 @@
+{
+  "name": "Burmese Voice Dictate",
+  "description": "A simple and aesthetic web application to dictate text in the Burmese language using your microphone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
